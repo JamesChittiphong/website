@@ -1,4 +1,5 @@
-import React from "react";
+/* eslint-disable react/prop-types */
+
 import { FaQuoteRight } from "react-icons/fa";
 import { BsStarHalf } from "react-icons/bs";
 import { BsStarFill } from "react-icons/bs";
